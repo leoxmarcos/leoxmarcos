@@ -71,29 +71,43 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-# 📊 **Advanced GitHub Analytics**
+# 📊 Advanced GitHub Analytics
 
 <p align="center">
 
+<!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true" height="170"/>
 
 <br><br>
 
+<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=leoxmarcos&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
+<!-- Top Languages (Bar Chart) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
+<br>
+
+<!-- Repo Languages Pie Chart -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=music-library&theme=tokyonight&show_icons=true" alt="Music Library Repo Stats" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=ai-recommendation-system&theme=tokyonight&show_icons=true" alt="AI Repo Stats" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=cyber-log-analyzer&theme=tokyonight&show_icons=true" alt="Cybersecurity Repo Stats" height="140"/>
 
 <br><br>
 
+<!-- GitHub Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=leoxmarcos&theme=onestar&no-frame=true&margin-w=10" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<!-- Optional: Custom Language Pie Chart -->
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C++','JavaScript','HTML','CSS','Firebase'],datasets:[{data:[40,25,20,10,5,15],backgroundColor:['#3572A5','#f34b7d','#f1e05a','#e34c26','#563d7c','#FFCA28']}]},options:{plugins:{legend:{position:'bottom'}}}}" height="200" />
 
 </p>
 
-<br>
+
+ 
+ 
 
 <!-- ─────────────────────────────────────────────── -->
 ## ✨ **Quote of the Day**
