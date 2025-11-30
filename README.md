@@ -69,16 +69,16 @@
 </p>
 
 <br>
-## 📈Advanced Visual Analytics
-
+<h1>📈Advanced Visual Analytics
+</h1>
 ---
 
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true)
 
  
 <div align="center">
- ##🧭ACTIVITY GRAPH 
+ <h1>🧭ACTIVITY GRAPH </h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&theme=react-dark&hide_border=false&area=true" width="95%"/>
 
  
