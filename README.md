@@ -69,21 +69,26 @@
 </p>
 
 <br>
+ 📈 Advanced Visual Analytics
 
-<!-- ─────────────────────────────────────────────── -->
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true)
+
+ 
 #<div align="center">
-
-<!-- ACTIVITY GRAPH -->
+ ACTIVITY GRAPH 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&theme=react-dark&hide_border=false&area=true" width="95%"/>
 
-<!-- CONTRIBUTION CALENDAR -->
+CONTRIBUTION CALENDAR
 <img src="https://github.com/leoxmarcos/leoxmarcos/blob/output/github-contribution-grid-snake.svg" />
 
-<!-- ACHIEVEMENTS / TROPHIES -->
+ ACHIEVEMENTS / TROPHIES
 <img src="https://github-profile-trophy.vercel.app/?username=leoxmarcos&theme=dracula&margin-w=15&margin-h=15" />
 
 </div>
-────────────────── -->
+ 
 ## ✨ **Quote of the Day**
 
 <p align="center">
