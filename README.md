@@ -69,7 +69,7 @@
 </p>
 
 <br>
- 📈 Advanced Visual Analytics
+## 📈Advanced Visual Analytics
 
 ---
 
@@ -78,7 +78,7 @@
 
  
 <div align="center">
- ACTIVITY GRAPH 
+ ##🧭ACTIVITY GRAPH 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&theme=react-dark&hide_border=false&area=true" width="95%"/>
 
  
