@@ -71,37 +71,19 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-# 📈 Advanced Visual Analytics
+#<div align="center">
 
----
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&theme=react-dark&hide_border=false&area=true" width="95%"/>
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true)
+<!-- CONTRIBUTION CALENDAR -->
+<img src="https://github.com/leoxmarcos/leoxmarcos/blob/output/github-contribution-grid-snake.svg" />
 
----
+<!-- ACHIEVEMENTS / TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=leoxmarcos&theme=dracula&margin-w=15&margin-h=15" />
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoxmarcos&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 🟢 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
- 
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=leoxmarcos&theme=onestar&no-frame=true&margin-w=10)
-
----
-
-## 📌 Languages Pie Chart
-![Languages Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C++','JavaScript','HTML','CSS','Firebase'],datasets:[{data:[40,25,20,10,5,15],backgroundColor:['#3572A5','#f34b7d','#f1e05a','#e34c26','#563d7c','#FFCA28']}]},options:{plugins:{legend:{position:'bottom'}}}})
-
-<!-- ─────────────────────────────────────────────── -->
+</div>
+────────────────── -->
 ## ✨ **Quote of the Day**
 
 <p align="center">
