@@ -29,35 +29,15 @@
 <p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase%20Studio-FFCC00?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </p>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🧩 Featured Projects
+## 🚀 Highlighted Projects
 
-<div align="center">
-
-[🎵 **Music Library**](https://github.com/your-username/music-library)  
-✨ Playlist, search, audio player & cloud sync  
-🛠 HTML • CSS • JS • Firebase  
-<br>
-
-[🤖 **AI Recommendation**](https://github.com/your-username/ai-recommendation-system)  
-📡 Predicts user preferences with ML  
-🛠 Python • NumPy • Pandas • Scikit-Learn  
-<br>
-
-[🔐 **Cybersecurity Logs**](https://github.com/your-username/cyber-log-analyzer)  
-🛡 Detects anomalies & brute-force patterns  
-🛠 Python • Regex • Linux Shell  
-<br>
-
-[📘 **DSA Archive**](#)  
-💡 Solved problems from LeetCode & CodeChef  
-🛠 C++ • Python  
-<br>
-
-[🎨 **Frontend Projects**](#)  
-🌐 Responsive UI projects with forms & animations  
-🛠 HTML • CSS • JS • React  
-
-</div>
+| ⭐ Project | 🔍 Description | 🛠 Tech | 🔗 Link |
+|-----------|----------------|--------|---------|
+| 🎯 LeetCode Submissions | C++ optimized DSA solutions | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | [View Repo](#) |
+| 🎨 Frontend Web Dev Projects | UI Designs, Web Apps, Landing Pages | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | [View Repo](#) |
+| 🤖 Python AI/ML Scripts | Basics to intermediate ML models | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) | [View Repo](#) |
+| 🎵 Music Library Website | Playlist, search, audio player & cloud sync | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | [View Repo](https://github.com/your-username/music-library) |
+| 🌟 More exciting projects coming soon… | Stay tuned for new additions! | — | — |
 
 <br>
 
