@@ -22,8 +22,7 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌌 **Tech Universe – Languages, Frameworks & Tools (Combined Animated Section)**
-
+## 🌌 **Tech Universe – Languages, Frameworks!
 <p align="center">
   
 <!-- LANGUAGES -->
@@ -36,6 +35,8 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux&theme=dark" />
 
 </p>
+ ⚙️Tools**
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
