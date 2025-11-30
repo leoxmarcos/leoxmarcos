@@ -1,166 +1,135 @@
-<!-- ========================================================= -->
-<!-- 🚀 PARTH SINGH — GITHUB PROFILE README (ENHANCED EDITION) -->
-<!-- ========================================================= -->
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🔥 NEON HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Parth+Singh!;Tech+Innovator+in+Progress;Code+•+Create+•+Conquer" />
+</h1>
 
-<h1 align="center">👨‍💻 PARTH SINGH</h1>
-<h3 align="center">Tech Innovator in Progress | Code • Create • Conquer</h3>
-
-<!-- ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=850&lines=CSE+Student+@+ABES+Engineering+College;AI+%26+ML+Enthusiast;Cybersecurity+Learner;Developer+In+Progress;Building+Real+World+Projects">
+  <img src="https://img.shields.io/badge/CSE%20Student-ABES%20Engineering%20College-00eaff?style=for-the-badge" />
 </p>
+
+<br>
+
+<!-- ─────────────────────────────────────────────── -->
+## 🚀 **About Me**
+
+💡 CSE student at **ABES Engineering College**  
+🔍 Passionate about **AI/ML** and **Cybersecurity**  
+🎓 Currently a **2nd-year B.Tech student**  
+⚡ Working on **hands-on programming** & **real-world projects**  
+🔥 Exploring full-stack development & intelligent systems  
+
+<br>
+
+<!-- ─────────────────────────────────────────────── -->
+## 🌌 **Tech Universe – Languages, Frameworks & Tools (Combined Animated Section)**
+
+<p align="center">
+  
+<!-- LANGUAGES -->
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,c,html,css,mysql&theme=dark" /><br>
+
+<!-- LIBRARIES / FRAMEWORKS -->
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,firebase,tensorflow&theme=dark" /><br>
+
+<!-- TOOLS -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux&theme=dark" />
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase%20Studio-FFCC00?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+<br>
+
+<!-- ─────────────────────────────────────────────── -->
+## 🧩 **Featured Projects**
+
+### ⭐ **Music Library Website**  
+📌 *Placeholder Repo:* https://github.com/your-username/music-library  
+🎧 A modern, responsive **Music Library Website** featuring playlist management, search filters, audio player controls, favorite songs section, and interactive UI.  
+🛠 **Tech Used:** HTML, CSS, JavaScript, Firebase  
 
 ---
 
-# 🚀 About Me
-- 🎓 **CSE Student at ABES Engineering College**
-- 🤖 **Interests:** AI & ML, Cybersecurity  
-- 📚 **Currently Learning:** Second Year B.Tech  
-- 🔥 **Working On:** Hands-on languages & real-world development  
-- 💡 Curious, creative & driven to build meaningful tech  
+### ⭐ **AI-Based Recommendation System**  
+📌 *Placeholder Repo:* https://github.com/your-username/ai-recommendation-system  
+🤖 A machine learning–powered recommendation model that predicts user preferences using supervised learning algorithms.  
+🛠 **Tech Used:** Python, NumPy, Pandas, Scikit-Learn  
 
 ---
 
-# 🛠️ Tech Stack (Animated + Logos Only)
+### ⭐ **Cybersecurity Log Analyzer**  
+📌 *Placeholder Repo:* https://github.com/your-username/cyber-log-analyzer  
+🔐 Command-line tool to analyze suspicious patterns, brute-force attempts, and anomalies in server logs.  
+🛠 **Tech Used:** Python, Regex, Linux shell  
 
-### **💻 Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,c,html,css,mysql,excel&theme=light" height="55"/>
-</p>
+<br>
 
-### **📚 Frameworks & Libraries**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,firebase" height="55"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
-  <img src="https://skillicons.dev/icons?i=npm" height="55"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### **🧰 Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux" height="55"/>
-  <img src="https://img.shields.io/badge/Firebase_Studio-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
-</p>
-
----
-
-# ⭐ Featured Projects (Animated Project Cards)
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎵 **Music Library Website**
-<p>
-A modern web app to explore, manage & stream music playlists.
-</p>
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=MusicLibrary&theme=tokyonight&border_color=00E5FF&border_radius=12"></a>
-</p>
-
-</td>
-<td width="50%">
-
-### 🎬 **AI Movie Recommender (Placeholder)**
-<p>
-AI-powered content recommendation engine using ML models.
-</p>
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=AIMovieRecommender&theme=tokyonight&border_color=00E5FF&border_radius=12"></a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 **Cybersecurity Threat Scanner (Placeholder)**
-<p>
-Scans for vulnerabilities & simulates basic cyber-risk detection.
-</p>
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=ThreatScanner&theme=tokyonight&border_color=00E5FF&border_radius=12"></a>
-</p>
-
-</td>
-
-<td width="50%">
-
-### 🧠 **AI Chatbot (Placeholder)**
-<p>
-Modern conversational bot built with ML & NLP APIs.
-</p>
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=AIChatbot&theme=tokyonight&border_color=00E5FF&border_radius=12"></a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌐 Connect With Me
-<p align="center">
-
-<a href="https://www.linkedin.com/in/parth-singh-880215310/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:parthsingh1947@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://leetcode.com/u/leo_x_marcos/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
-</a>
-
-<a href="https://www.codechef.com/users/leo_marcos47">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40"/>
-</a>
-
-<a href="https://x.com/parth_sing54618">
-<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Stats (Glow Style)
+<!-- ─────────────────────────────────────────────── -->
+## 🌐 **Connect With Me**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leoxmarcos&theme=tokyonight&show_icons=true&count_private=true&border_color=00E5FF&border_radius=12" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&border_color=00E5FF&border_radius=12" height="180"/>
+  <a href="https://www.linkedin.com/in/parth-singh-880215310/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="mailto:parthsingh1947@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+  <a href="https://leetcode.com/u/leo_x_marcos/">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
+  </a>
+  <a href="https://www.codechef.com/users/leo_marcos47">
+    <img src="https://img.icons8.com/fluency/48/codechef.png" width="50"/>
+  </a>
+  <a href="https://x.com/parth_sing54618">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50"/>
+  </a>
 </p>
 
----
+<br>
 
-# 🏆 GitHub Trophies
+<!-- ─────────────────────────────────────────────── -->
+## 📊 **GitHub Analytics**
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leoxmarcos&theme=matrix&no-frame=true&margin-w=10"/>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=leoxmarcos&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
 </p>
 
----
-
-# 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github-profile-trophy.vercel.app/?username=leoxmarcos&theme=onestar&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
----
+<br>
 
-# 💬 Quote of the Day
+<!-- ─────────────────────────────────────────────── -->
+## 🐍 **Contribution Snake**
+
 <p align="center">
-  <em>"The best way to predict the future is to create it."</em>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<br>
 
-# ⭐ Visitor Counter
+<!-- ─────────────────────────────────────────────── -->
+## ✨ **Quote of the Day**
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/leoxmarcos/count.svg" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<br>
+
+<!-- ─────────────────────────────────────────────── -->
+<p align="center">
+  ⭐ **Thanks for visiting! — Let's Build Something Amazing Together** ⭐
 </p>
