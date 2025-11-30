@@ -71,29 +71,26 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-# 📊 Advanced GitHub Analytics
+# 📈 Advanced Visual Analytics
 
-<!-- GitHub Streak -->
+---
+
+## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true)
 
 ---
 
-<!-- GitHub Stats -->
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoxmarcos&show_icons=true&theme=tokyonight&hide_border=true)
 
-<!-- Top Languages -->
+---
+
+## 🟢 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🔹 Pinned Repositories
-
-| Project | Description | Repo Stats |
-|---------|-------------|------------|
-| 🎵 Music Library | Playlist, search, audio player & cloud sync | ![Music Library](https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=music-library&theme=tokyonight&show_icons=true) |
-| 🤖 AI Recommendation System | Predicts user preferences using ML | ![AI Repo](https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=ai-recommendation-system&theme=tokyonight&show_icons=true) |
-| 🔐 Cybersecurity Log Analyzer | Detects anomalies & brute-force patterns | ![Cybersecurity Repo](https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=cyber-log-analyzer&theme=tokyonight&show_icons=true) |
-
+ 
 ---
 
 ## 🏆 GitHub Trophies
@@ -101,12 +98,8 @@
 
 ---
 
-## 📊 Languages Pie Chart (Custom)
+## 📌 Languages Pie Chart
 ![Languages Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C++','JavaScript','HTML','CSS','Firebase'],datasets:[{data:[40,25,20,10,5,15],backgroundColor:['#3572A5','#f34b7d','#f1e05a','#e34c26','#563d7c','#FFCA28']}]},options:{plugins:{legend:{position:'bottom'}}}})
-
-
- 
- 
 
 <!-- ─────────────────────────────────────────────── -->
 ## ✨ **Quote of the Day**
