@@ -22,77 +22,40 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌌 Tech Universe – Languages & Frameworks! <p align="center"> <!-- LANGUAGES --> <img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,firebase,linux,github,vscode&theme=dark" /><br> </p> <br> <h2>⚙️Tools</h2> <p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase%20Studio-FFCC00?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </p>
+## 🌌 Tech Universe – Languages & Frameworks!
+<p align="center"> <!-- LANGUAGES -->
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,firebase,linux,github,vscode&theme=dark" /><br> </p> <br> <h2>
+⚙️Tools</h2> 
+<p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase%20Studio-FFCC00?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </p>
 
 <!-- ─────────────────────────────────────────────── -->
-# 🧩 **Featured Projects (Highlighted Blocks)**
-
-<style>
-.card {
-  border: 2px solid #00eaff;
-  border-radius: 12px;
-  padding: 15px;
-  margin: 10px 0;
-  background: rgba(0, 238, 255, 0.05);
-}
-</style>
+## 🧩 Featured Projects
 
 <div align="center">
 
-<!-- Music Library -->
-<div class="card">
-  <h2>🎵 Music Library Website</h2>
-  <p>✨ A modern music platform with playlist creation, song filters, search, audio player, and cloud sync.</p>
-  <b>Tech:</b> HTML • CSS • JavaScript • Firebase  
-  <br>
-  <a href="https://github.com/your-username/music-library">
-    🔗 View Repository
-  </a>
-</div>
+[🎵 **Music Library**](https://github.com/your-username/music-library)  
+✨ Playlist, search, audio player & cloud sync  
+🛠 HTML • CSS • JS • Firebase  
+<br>
 
-<!-- AI/ML -->
-<div class="card">
-  <h2>🤖 AI-Based Recommendation System</h2>
-  <p>📡 Predicts user preferences using ML, classification & similarity metrics.</p>
-  <b>Tech:</b> Python • NumPy • Pandas • Scikit-Learn  
-  <br>
-  <a href="https://github.com/your-username/ai-recommendation-system">
-    🔗 View Repository
-  </a>
-</div>
+[🤖 **AI Recommendation**](https://github.com/your-username/ai-recommendation-system)  
+📡 Predicts user preferences with ML  
+🛠 Python • NumPy • Pandas • Scikit-Learn  
+<br>
 
-<!-- Cybersecurity Project -->
-<div class="card">
-  <h2>🔐 Cybersecurity Log Analyzer</h2>
-  <p>🛡️ Detects brute force patterns, suspicious activity & anomalies in server logs.</p>
-  <b>Tech:</b> Python • Regex • Linux Shell  
-  <br>
-  <a href="https://github.com/your-username/cyber-log-analyzer">
-    🔗 View Repository
-  </a>
-</div>
+[🔐 **Cybersecurity Logs**](https://github.com/your-username/cyber-log-analyzer)  
+🛡 Detects anomalies & brute-force patterns  
+🛠 Python • Regex • Linux Shell  
+<br>
 
-<!-- DSA -->
-<div class="card">
-  <h2>📘 DSA Problem Archive</h2>
-  <p>💡 Collection of solved problems from LeetCode, CodeChef & contest practice.</p>
-  <b>Tech:</b> C++ • Python  
-  <br>
-  <a href="#">
-    🔗 View Repository
-  </a>
-</div>
+[📘 **DSA Archive**](#)  
+💡 Solved problems from LeetCode & CodeChef  
+🛠 C++ • Python  
+<br>
 
-<!-- Frontend -->
-<div class="card">
-  <h2>🎨 Frontend Mini-Projects</h2>
-  <p>🌐 Multiple responsive UI projects including forms, animations & custom components.</p>
-  <b>Tech:</b> HTML • CSS • JS • React  
-  <br>
-  <a href="#">
-    🔗 View Showcase
-  </a>
-</div>
+[🎨 **Frontend Projects**](#)  
+🌐 Responsive UI projects with forms & animations  
+🛠 HTML • CSS • JS • React  
 
 </div>
 
