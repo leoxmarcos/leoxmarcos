@@ -73,37 +73,36 @@
 <!-- ─────────────────────────────────────────────── -->
 # 📊 Advanced GitHub Analytics
 
-<p align="center">
-
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true" height="170"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true)
 
-<br><br>
+---
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=leoxmarcos&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoxmarcos&show_icons=true&theme=tokyonight&hide_border=true)
 
-<!-- Top Languages (Bar Chart) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&hide_border=true)
 
-<br>
+---
 
-<!-- Repo Languages Pie Chart -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=music-library&theme=tokyonight&show_icons=true" alt="Music Library Repo Stats" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=ai-recommendation-system&theme=tokyonight&show_icons=true" alt="AI Repo Stats" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=cyber-log-analyzer&theme=tokyonight&show_icons=true" alt="Cybersecurity Repo Stats" height="140"/>
+## 🔹 Pinned Repositories
 
-<br><br>
+| Project | Description | Repo Stats |
+|---------|-------------|------------|
+| 🎵 Music Library | Playlist, search, audio player & cloud sync | ![Music Library](https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=music-library&theme=tokyonight&show_icons=true) |
+| 🤖 AI Recommendation System | Predicts user preferences using ML | ![AI Repo](https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=ai-recommendation-system&theme=tokyonight&show_icons=true) |
+| 🔐 Cybersecurity Log Analyzer | Detects anomalies & brute-force patterns | ![Cybersecurity Repo](https://github-readme-stats.vercel.app/api/pin/?username=leoxmarcos&repo=cyber-log-analyzer&theme=tokyonight&show_icons=true) |
 
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=leoxmarcos&theme=onestar&no-frame=true&margin-w=10" />
+---
 
-<br><br>
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=leoxmarcos&theme=onestar&no-frame=true&margin-w=10)
 
-<!-- Optional: Custom Language Pie Chart -->
-<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C++','JavaScript','HTML','CSS','Firebase'],datasets:[{data:[40,25,20,10,5,15],backgroundColor:['#3572A5','#f34b7d','#f1e05a','#e34c26','#563d7c','#FFCA28']}]},options:{plugins:{legend:{position:'bottom'}}}}" height="200" />
+---
 
-</p>
+## 📊 Languages Pie Chart (Custom)
+![Languages Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C++','JavaScript','HTML','CSS','Firebase'],datasets:[{data:[40,25,20,10,5,15],backgroundColor:['#3572A5','#f34b7d','#f1e05a','#e34c26','#563d7c','#FFCA28']}]},options:{plugins:{legend:{position:'bottom'}}}})
 
 
  
