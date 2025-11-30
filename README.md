@@ -14,24 +14,20 @@
 ## 🚀 **About Me**
 
 💡 CSE student at **ABES Engineering College**  
-🔍 Passionate about **AI/ML** and **Cybersecurity**  
+🔍 Passionate about **AI/ML**, **Cybersecurity**, and **Full-Stack Development**  
 🎓 Currently a **2nd-year B.Tech student**  
-⚡ Working on **hands-on programming** & **real-world projects**  
-🔥 Exploring full-stack development & intelligent systems  
+⚡ Working on **hands-on programming**, **data structures**, & **real-world applications**  
+🔥 Exploring **frontend development**, intelligent systems & cloud tools  
 
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌌 Tech Universe – Languages & Frameworks!
+## 🌌 **Tech Universe – Languages, Frameworks & Tools**
 <p align="center">
-  
-<!-- LANGUAGES -->
-<img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,firebase,linux,github,vscode&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,c,html,css,mysql,react,next,nodejs,firebase,tensorflow,github,linux,vscode,figma&theme=dark" />
 </p>
-<br>
- <h2>⚙️Tools</h2>
 
-
+<!-- Tools Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -43,30 +39,81 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🧩 **Featured Projects**
+# 🧩 **Featured Projects (Highlighted Blocks)**
 
-### ⭐ **Music Library Website**  
-📌 *Placeholder Repo:* https://github.com/your-username/music-library  
-🎧 A modern, responsive **Music Library Website** featuring playlist management, search filters, audio player controls, favorite songs section, and interactive UI.  
-🛠 **Tech Used:** HTML, CSS, JavaScript, Firebase  
+<style>
+.card {
+  border: 2px solid #00eaff;
+  border-radius: 12px;
+  padding: 15px;
+  margin: 10px 0;
+  background: rgba(0, 238, 255, 0.05);
+}
+</style>
 
----
+<div align="center">
 
-### ⭐ **AI-Based Recommendation System**  
-📌 *Placeholder Repo:* https://github.com/your-username/ai-recommendation-system  
-🤖 A machine learning–powered recommendation model that predicts user preferences using supervised learning algorithms.  
-🛠 **Tech Used:** Python, NumPy, Pandas, Scikit-Learn  
+<!-- Music Library -->
+<div class="card">
+  <h2>🎵 Music Library Website</h2>
+  <p>✨ A modern music platform with playlist creation, song filters, search, audio player, and cloud sync.</p>
+  <b>Tech:</b> HTML • CSS • JavaScript • Firebase  
+  <br>
+  <a href="https://github.com/your-username/music-library">
+    🔗 View Repository
+  </a>
+</div>
 
----
+<!-- AI/ML -->
+<div class="card">
+  <h2>🤖 AI-Based Recommendation System</h2>
+  <p>📡 Predicts user preferences using ML, classification & similarity metrics.</p>
+  <b>Tech:</b> Python • NumPy • Pandas • Scikit-Learn  
+  <br>
+  <a href="https://github.com/your-username/ai-recommendation-system">
+    🔗 View Repository
+  </a>
+</div>
 
-### ⭐ **Cybersecurity Log Analyzer**  
-📌 *Placeholder Repo:* https://github.com/your-username/cyber-log-analyzer  
-🔐 Command-line tool to analyze suspicious patterns, brute-force attempts, and anomalies in server logs.  
-🛠 **Tech Used:** Python, Regex, Linux shell  
+<!-- Cybersecurity Project -->
+<div class="card">
+  <h2>🔐 Cybersecurity Log Analyzer</h2>
+  <p>🛡️ Detects brute force patterns, suspicious activity & anomalies in server logs.</p>
+  <b>Tech:</b> Python • Regex • Linux Shell  
+  <br>
+  <a href="https://github.com/your-username/cyber-log-analyzer">
+    🔗 View Repository
+  </a>
+</div>
+
+<!-- DSA -->
+<div class="card">
+  <h2>📘 DSA Problem Archive</h2>
+  <p>💡 Collection of solved problems from LeetCode, CodeChef & contest practice.</p>
+  <b>Tech:</b> C++ • Python  
+  <br>
+  <a href="#">
+    🔗 View Repository
+  </a>
+</div>
+
+<!-- Frontend -->
+<div class="card">
+  <h2>🎨 Frontend Mini-Projects</h2>
+  <p>🌐 Multiple responsive UI projects including forms, animations & custom components.</p>
+  <b>Tech:</b> HTML • CSS • JS • React  
+  <br>
+  <a href="#">
+    🔗 View Showcase
+  </a>
+</div>
+
+</div>
 
 <br>
 
- ## 🌍 Connect With Me
+<!-- ─────────────────────────────────────────────── -->
+## 🌍 Connect With Me
 
 <p align="center">
 
@@ -92,26 +139,32 @@
 
 </p>
 
-
+<br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 📊 **GitHub Analytics**
+# 📊 **Advanced GitHub Analytics**
 
 <p align="center">
-  
+
+<img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true" height="170"/>
+
+<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=leoxmarcos&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leoxmarcos&theme=onestar&margin-w=10&no-bg=true&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=leoxmarcos&theme=onestar&no-frame=true&margin-w=10" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 <br>
-
-<!-- ─────────────────────────────────────────────── -->
 
 <!-- ─────────────────────────────────────────────── -->
 ## ✨ **Quote of the Day**
@@ -122,7 +175,6 @@
 
 <br>
 
-<!-- ─────────────────────────────────────────────── -->
 <p align="center">
-  ⭐ **Thanks for visiting! — Let's Build Something Amazing Together** ⭐
+  ⭐ <b>Thanks for visiting — Let's Build Something Amazing Together!</b> ⭐
 </p>
