@@ -35,7 +35,8 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux&theme=dark" />
 
 </p>
- ⚙️Tools**
+<br>
+ <h2>⚙️Tools</h2>
 
 
 <p align="center">
