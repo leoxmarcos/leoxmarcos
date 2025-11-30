@@ -71,28 +71,31 @@
 
 <br>
 
-<!-- ─────────────────────────────────────────────── -->
-## 🌐 **Connect With Me**
+ 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parth-singh-880215310/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-  </a>
-  <a href="mailto:parthsingh1947@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-  </a>
-  <a href="https://leetcode.com/u/leo_x_marcos/">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
-  </a>
-  <a href="https://www.codechef.com/users/leo_marcos47">
-    <img src="https://img.icons8.com/fluency/48/codechef.png" width="50"/>
-  </a>
-  <a href="https://x.com/parth_sing54618">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50"/>
-  </a>
-</p>
 
-<br>
+<a href="https://www.linkedin.com/in/parth-singh-880215310/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
+</a>
+
+<a href="mailto:parthsingh1947@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+
+<a href="https://leetcode.com/u/leo_x_marcos/">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+</a>
+
+<a href="https://www.codechef.com/users/leo_marcos47">
+  <img src="https://img.shields.io/badge/CodeChef-6e3b28?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://x.com/parth_sing54618">
+  <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+</p>
 
 <!-- ─────────────────────────────────────────────── -->
 ## 📊 **GitHub Analytics**
@@ -112,13 +115,6 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🐍 **Contribution Snake**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<br>
 
 <!-- ─────────────────────────────────────────────── -->
 ## ✨ **Quote of the Day**
