@@ -1,14 +1,12 @@
 <!-- ─────────────────────────────────────────────── -->
-<!-- 🔥 NEON HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2500&pause=500&color=00FFEA,FF00FF,FF0055&center=true&vCenter=true&width=900&lines=Hey+I'm+Parth+Singh!;Tech+Innovator+in+Progress;Code+•+Create+•+Conquer" />
+<!-- 🔥 NEON HEADER --><h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=00FFD1,00C8FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Parth+Singh!;Tech+Innovator+in+Progress;Code+•+Create+•+Conquer" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-ABES%20Engineering%20College-00FFEA?style=for-the-badge&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSE%20Student-ABES%20Engineering%20College-00FFD1?style=for-the-badge&logo=education&logoColor=white" />
 </p>
 
-<br>
 
 <!-- ─────────────────────────────────────────────── -->
 ## 🚀 **About Me**
