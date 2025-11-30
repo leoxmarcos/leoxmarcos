@@ -22,17 +22,17 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌌 **Tech Universe – Languages, Frameworks!
+## 🌌 Tech Universe – Languages & Frameworks!
 <p align="center">
   
 <!-- LANGUAGES -->
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,c,html,css,mysql&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql&theme=dark" /><br>
 
 <!-- LIBRARIES / FRAMEWORKS -->
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,firebase,tensorflow&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,firebase,tensorflow,linu,docker&theme=dark" /><br>
 
 <!-- TOOLS -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figmax&theme=dark" />
 
 </p>
 <br>
