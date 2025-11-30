@@ -26,7 +26,7 @@
 <p align="center">
   
 <!-- LANGUAGES -->
-<img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,express,firebase,tensorflow,linux,docker,git,github,vscode,postman,figma&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,express,firebase,linux,github,vscode,figma&theme=dark" /><br>
 </p>
 <br>
  <h2>⚙️Tools</h2>
