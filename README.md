@@ -26,13 +26,7 @@
 <p align="center">
   
 <!-- LANGUAGES -->
-<img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,express,firebase,tensorflow,linux,docker&theme=dark" /><br>
-
-<!-- LIBRARIES / FRAMEWORKS -->
-
-<!-- TOOLS -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figmax&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,express,firebase,tensorflow,linux,docker,git,github,vscode,postman,figma&theme=dark" /><br>
 </p>
 <br>
  <h2>⚙️Tools</h2>
