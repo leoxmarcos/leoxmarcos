@@ -71,7 +71,9 @@
 <br>
 <h2>📈Advanced Visual Analytics
 </h2>
----
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true)
 
  
  
