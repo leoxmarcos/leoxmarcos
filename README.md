@@ -22,21 +22,7 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌌 **Tech Universe – Languages, Frameworks & Tools**
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,c,html,css,mysql,react,next,nodejs,firebase,tensorflow,github,linux,vscode,figma&theme=dark" />
-</p>
-
-<!-- Tools Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase%20Studio-FFCC00?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
-<br>
+## 🌌 Tech Universe – Languages & Frameworks! <p align="center"> <!-- LANGUAGES --> <img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,firebase,linux,github,vscode&theme=dark" /><br> </p> <br> <h2>⚙️Tools</h2> <p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase%20Studio-FFCC00?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </p>
 
 <!-- ─────────────────────────────────────────────── -->
 # 🧩 **Featured Projects (Highlighted Blocks)**
