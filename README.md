@@ -9,7 +9,7 @@
 </p>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🚀 **About Me**
+## 🚀**About Me**
 
 💡 CSE student at **ABES Engineering College**  
 🔍 Passionate about **AI/ML**, **Cybersecurity**, and **Full-Stack Development**  
@@ -20,14 +20,14 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌌 Tech Universe – Languages & Frameworks!
+## 🌌Tech Universe – Languages & Frameworks!
 <p align="center"> <!-- LANGUAGES -->
 <img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,firebase,linux,github,vscode&theme=dark" /><br> </p> <br> <h2>
 ⚙️Tools</h2> 
 <p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase%20Studio-FFCC00?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </p>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🚀 Highlighted Projects
+## 🚀Highlighted Projects
 
 | ⭐ Project | 🔍 Description | 🛠 Tech | 
 |-----------|----------------|--------|
@@ -40,7 +40,7 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌍 Connect With Me
+## 🌍Connect With Me
 
 <p align="center">
 
@@ -70,7 +70,7 @@
 <h2>📈Advanced Visual Analytics
 </h2>
 
-## 🔥 GitHub Streak
+## 🔥GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true)
 
  
@@ -83,7 +83,7 @@
 </div>
 <br>
  
-## ✨ **Quote of the Day**
+## ✨**Quote of the Day**
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
