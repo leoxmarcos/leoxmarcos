@@ -75,7 +75,7 @@
 
  
  
-<div>
+<div align="center">
  <h2>🧭ACTIVITY GRAPH </h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&theme=react-dark&hide_border=false&area=true" width="95%"/>
 
