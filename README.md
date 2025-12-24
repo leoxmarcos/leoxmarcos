@@ -67,11 +67,36 @@
 </p>
 
 <br>
-<h2>📈Advanced Visual Analytics
-</h2>
+## 🔥 GitHub Streak
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true"
+    height="190"
+  />
+</p>
 
-## 🔥GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true)
+## 🏆 GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=dracula&hide_border=true&count_private=true" 
+    height="180"
+  />
+</p>
+
+## 🛠️ Top Languages
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&bg_color=0B1220&title_color=38BDF8&text_color=E5E7EB&icon_color=22D3EE&hide_border=true&langs_count=6" 
+  />
+</p>
+
+## 📊 Contribution Graph
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=srivastavanandani190-lang&theme=dracula&hide_border=true" 
+    height="200"
+  />
+</p>
 
  
  
