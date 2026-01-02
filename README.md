@@ -11,7 +11,7 @@
 <!-- ─────────────────────────────────────────────── -->
 ## 🚀**About Me**
 
-💡 CSE student at **ABES Engineering College**  
+💡 CSE student at **AKTU UNIVERSITY**  
 🔍 Passionate about **AI/ML**, **Cybersecurity**, and **Full-Stack Development**  
 🎓 Currently a **2nd-year B.Tech student**  
 ⚡ Working on **hands-on programming**, **data structures**, & **real-world applications**  
