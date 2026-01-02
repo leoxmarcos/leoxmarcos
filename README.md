@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-ABES%20Engineering%20College-000000?style=for-the-badge&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSE%20Student-000000?style=for-the-badge&logo=education&logoColor=white" />
 </p>
 
 <!-- ─────────────────────────────────────────────── -->
