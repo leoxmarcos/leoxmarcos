@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-0B1220?style=for-the-badge&logo=education&logoColor=0EA5E9" />
+  <img src="https://img.shields.io/badge/CSE%20Student-0B1220?style=for-the-badge&logo=education&logoColor=38BDF8" />
 </p>
 
 <!-- ─────────────────────────────────────────────── -->
