@@ -28,48 +28,49 @@
 
 <br>
 
-<h2>⚙️Tools</h2>
+<h2>⚙️ Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Firebase%20Studio-0B1220?style=for-the-badge&logo=firebase&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/MS%20Excel-0B1220?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Firebase%20Studio-000000?style=for-the-badge&logo=firebase&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/MS%20Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" />
 </p>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🚀Highlighted Projects
+## 🚀 Highlighted Projects
 
 | ⭐ Project | 🔍 Description | 🛠 Tech |
 |-----------|----------------|--------|
-| 🎯 LeetCode Submissions | C++ optimized DSA solutions | ![C++](https://img.shields.io/badge/C++-0B1220?style=flat&logo=c%2B%2B&logoColor=38BDF8) ![Python](https://img.shields.io/badge/Python-0B1220?style=flat&logo=python&logoColor=38BDF8) |
-| 🎨 Frontend Web Dev Projects | UI Designs, Web Apps, Landing Pages | ![HTML](https://img.shields.io/badge/HTML-0B1220?style=flat&logo=html5&logoColor=38BDF8) ![CSS](https://img.shields.io/badge/CSS-0B1220?style=flat&logo=css3&logoColor=38BDF8) ![JS](https://img.shields.io/badge/JavaScript-0B1220?style=flat&logo=javascript&logoColor=38BDF8) ![React](https://img.shields.io/badge/React-0B1220?style=flat&logo=react&logoColor=38BDF8) |
-| 🤖 Python AI/ML Scripts | Basics to intermediate ML models | ![Python](https://img.shields.io/badge/Python-0B1220?style=flat&logo=python&logoColor=38BDF8) ![NumPy](https://img.shields.io/badge/NumPy-0B1220?style=flat&logo=numpy&logoColor=38BDF8) ![Pandas](https://img.shields.io/badge/Pandas-0B1220?style=flat&logo=pandas&logoColor=38BDF8) ![Scikit](https://img.shields.io/badge/Scikit--Learn-0B1220?style=flat&logo=scikitlearn&logoColor=38BDF8) |
-| 🎵 Music Library Website | Playlist, search, audio player & cloud sync | ![HTML](https://img.shields.io/badge/HTML-0B1220?style=flat&logo=html5&logoColor=38BDF8) ![CSS](https://img.shields.io/badge/CSS-0B1220?style=flat&logo=css3&logoColor=38BDF8) ![JS](https://img.shields.io/badge/JavaScript-0B1220?style=flat&logo=javascript&logoColor=38BDF8) ![Firebase](https://img.shields.io/badge/Firebase-0B1220?style=flat&logo=firebase&logoColor=38BDF8) |
+| 🎯 LeetCode Submissions | C++ optimized DSA solutions | ![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B&logoColor=38BDF8) ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=38BDF8) |
+| 🎨 Frontend Web Dev Projects | UI Designs, Web Apps, Landing Pages | ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=38BDF8) ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=38BDF8) ![JS](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=38BDF8) ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=38BDF8) |
+| 🤖 Python AI/ML Scripts | Basics to intermediate ML models | ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=38BDF8) ![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=38BDF8) ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=38BDF8) ![Scikit](https://img.shields.io/badge/Scikit--Learn-000000?style=flat&logo=scikitlearn&logoColor=38BDF8) |
+| 🎵 Music Library Website | Playlist, search, audio player & cloud sync | ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=38BDF8) ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=38BDF8) ![JS](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=38BDF8) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=38BDF8) |
 | 🌟 More exciting projects coming soon… | Stay tuned for new additions! | — |
 
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌍Connect With Me
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-singh-880215310/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
   </a>
   <a href="mailto:parthsingh1947@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
   </a>
   <a href="https://leetcode.com/u/leo_x_marcos/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=38BDF8" />
   </a>
   <a href="https://www.codechef.com/users/leo_marcos47">
     <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=38BDF8" />
   </a>
   <a href="https://x.com/parth_sing54618">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=38BDF8" />
   </a>
 </p>
+
 
 
 <br>
