@@ -1,58 +1,55 @@
-<!-- ================================================= -->
+<!-- ─────────────────────────────────────────────── -->
 <!-- 🔵 BLUE NEON HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey+I'm+Parth+Singh!;CSE+Student+%7C+Tech+Explorer;Code+•+Create+•+Conquer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey+I'm+Parth+Singh!;Tech+Innovator+in+Progress;Code+•+Create+•+Conquer" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-0B1220?style=for-the-badge&logo=graduation-cap&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Blue%20Neon%20Theme-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=0B1220" />
+  <img src="https://img.shields.io/badge/CSE%20Student-0B1220?style=for-the-badge&logo=education&logoColor=38BDF8" />
 </p>
 
----
-
+<!-- ─────────────────────────────────────────────── -->
 ## 🚀 About Me
 
-<p align="center">
-💡 <b>CSE Student</b> at <b>AKTU UNIVERSITY</b><br>
-🔍 Passionate about <b>AI/ML</b>, <b>Cybersecurity</b> & <b>Full-Stack Development</b><br>
-🎓 <b>2nd-Year B.Tech</b> Student<br>
-⚡ Practicing <b>DSA</b>, <b>Problem Solving</b> & <b>Real-World Projects</b><br>
-🔥 Exploring <b>Frontend</b>, <b>Intelligent Systems</b> & <b>Cloud Tools</b>
-</p>
+💡 CSE student at **AKTU UNIVERSITY**  
+🔍 Passionate about **AI/ML**, **Cybersecurity**, and **Full-Stack Development**  
+🎓 Currently a **2nd-year B.Tech student**  
+⚡ Working on **hands-on programming**, **data structures**, & **real-world applications**  
+🔥 Exploring **frontend development**, intelligent systems & cloud tools  
 
----
+<br>
 
-## 🌌 Tech Universe
-
-### 💻 Languages & Frameworks
+<!-- ─────────────────────────────────────────────── -->
+## 🌌 Tech Universe – Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,firebase,linux,github,vscode&theme=dark" />
 </p>
 
-### ⚙️ Tools & Libraries
+<br>
+
+<h2>⚙️ Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Scikit--Learn-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Firebase-0B1220?style=for-the-badge&logo=firebase&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Firebase%20Studio-0B1220?style=for-the-badge&logo=firebase&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/MS%20Excel-0B1220?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" />
 </p>
 
----
-
+<!-- ─────────────────────────────────────────────── -->
 ## 🚀 Highlighted Projects
 
 | ⭐ Project | 🔍 Description | 🛠 Tech |
-|---------|----------------|--------|
-| 🎯 LeetCode Submissions | Optimized DSA solutions | ![C++](https://img.shields.io/badge/C++-0B1220?style=flat&logo=c%2B%2B&logoColor=38BDF8) ![Python](https://img.shields.io/badge/Python-0B1220?style=flat&logo=python&logoColor=38BDF8) |
-| 🎨 Frontend Projects | UI designs & web apps | ![HTML](https://img.shields.io/badge/HTML-0B1220?style=flat&logo=html5&logoColor=38BDF8) ![CSS](https://img.shields.io/badge/CSS-0B1220?style=flat&logo=css3&logoColor=38BDF8) ![JS](https://img.shields.io/badge/JavaScript-0B1220?style=flat&logo=javascript&logoColor=38BDF8) ![React](https://img.shields.io/badge/React-0B1220?style=flat&logo=react&logoColor=38BDF8) |
-| 🤖 AI / ML Scripts | ML models & experiments | ![Python](https://img.shields.io/badge/Python-0B1220?style=flat&logo=python&logoColor=38BDF8) ![Sklearn](https://img.shields.io/badge/Sklearn-0B1220?style=flat&logo=scikitlearn&logoColor=38BDF8) |
-| 🎵 Music Library | Audio player & cloud sync | ![Firebase](https://img.shields.io/badge/Firebase-0B1220?style=flat&logo=firebase&logoColor=38BDF8) |
-| 🌟 More coming soon | Stay tuned 🚀 | — |
+|-----------|----------------|--------|
+| 🎯 LeetCode Submissions | C++ optimized DSA solutions | ![C++](https://img.shields.io/badge/C++-0B1220?style=flat&logo=c%2B%2B&logoColor=38BDF8) ![Python](https://img.shields.io/badge/Python-0B1220?style=flat&logo=python&logoColor=38BDF8) |
+| 🎨 Frontend Web Dev Projects | UI Designs, Web Apps, Landing Pages | ![HTML](https://img.shields.io/badge/HTML-0B1220?style=flat&logo=html5&logoColor=38BDF8) ![CSS](https://img.shields.io/badge/CSS-0B1220?style=flat&logo=css3&logoColor=38BDF8) ![JS](https://img.shields.io/badge/JavaScript-0B1220?style=flat&logo=javascript&logoColor=38BDF8) ![React](https://img.shields.io/badge/React-0B1220?style=flat&logo=react&logoColor=38BDF8) |
+| 🤖 Python AI/ML Scripts | Basics to intermediate ML models | ![Python](https://img.shields.io/badge/Python-0B1220?style=flat&logo=python&logoColor=38BDF8) ![NumPy](https://img.shields.io/badge/NumPy-0B1220?style=flat&logo=numpy&logoColor=38BDF8) ![Pandas](https://img.shields.io/badge/Pandas-0B1220?style=flat&logo=pandas&logoColor=38BDF8) ![Scikit](https://img.shields.io/badge/Scikit--Learn-0B1220?style=flat&logo=scikitlearn&logoColor=38BDF8) |
+| 🎵 Music Library Website | Playlist, search, audio player & cloud sync | ![HTML](https://img.shields.io/badge/HTML-0B1220?style=flat&logo=html5&logoColor=38BDF8) ![CSS](https://img.shields.io/badge/CSS-0B1220?style=flat&logo=css3&logoColor=38BDF8) ![JS](https://img.shields.io/badge/JavaScript-0B1220?style=flat&logo=javascript&logoColor=38BDF8) ![Firebase](https://img.shields.io/badge/Firebase-0B1220?style=flat&logo=firebase&logoColor=38BDF8) |
+| 🌟 More exciting projects coming soon… | Stay tuned for new additions! | — |
 
----
+<br>
 
+<!-- ─────────────────────────────────────────────── -->
 ## 🌍 Connect With Me
 
 <p align="center">
@@ -73,7 +70,7 @@
 </a>
 </p>
 
----
+<br>
 
 ## 🏆 GitHub Stats
 <p align="center">
@@ -90,19 +87,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
 
----
+<br>
 
 ## ✨ Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
+<br>
 
 <p align="center">
-  💙 <b>Thanks for visiting — Let’s build something amazing together!</b> 💙
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=120&section=footer"/>
+  💙 <b>Thanks for visiting — Let's Build Something Amazing Together!</b> 💙
 </p>
