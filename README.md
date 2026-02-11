@@ -21,11 +21,11 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌌Tech Universe – Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,firebase,linux,github,vscode&theme=dark" />
-</p>
+## 🛠️Tech Stack & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&perline=8" />
+</p>
 <br>
 
 <h2>⚙️ Tools</h2>
