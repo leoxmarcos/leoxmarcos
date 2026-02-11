@@ -26,9 +26,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&perline=8" />
 </p>
+
 <br>
 
----
+ 
 
 <h2>⚙️Tools</h2>
 <p align="center">
@@ -41,6 +42,7 @@
 
 <br>
 <!-- ─────────────────────────────────────────────── -->
+
 ## 🚀Highlighted Projects
 
 | ⭐ Project | 🔍 Description | 🛠 Tech |
