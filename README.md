@@ -58,13 +58,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" />
   </a>
   <a href="mailto:parthsingh1947@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
   </a>
   <a href="https://leetcode.com/u/leo_x_marcos/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00BFFF" />
   </a>
   <a href="https://www.codechef.com/users/leo_marcos47">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=38BDF8" />
   </a>
   <a href="https://x.com/parth_sing54618">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00BFFF" />
