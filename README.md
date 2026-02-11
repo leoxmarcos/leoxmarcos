@@ -30,7 +30,7 @@
 
 <h2>⚙️ Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=38BDF8&labelColor=000000&color=38BDF8" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=38BDF8&labelColor=38BDF8&color=000000" />
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=38BDF8&labelColor=000000&color=38BDF8" />
   <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8&labelColor=000000&color=38BDF8" />
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=38BDF8&labelColor=000000&color=38BDF8" />
