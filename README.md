@@ -28,7 +28,7 @@
 </p>
 <br>
 
-<h2>⚙️ Tools</h2>
+<h2>⚙️Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-38BDF8?style=for-the-badge&logo=numpy&logoColor=38BDF8&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=000000&labelColor=38BDF8&color=38BDF8" />
@@ -39,7 +39,7 @@
 
 
 <!-- ─────────────────────────────────────────────── -->
-## 🚀 Highlighted Projects
+## 🚀Highlighted Projects
 
 | ⭐ Project | 🔍 Description | 🛠 Tech |
 |-----------|----------------|--------|
@@ -52,7 +52,7 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌍 Connect With Me
+## 🌍Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-singh-880215310/">
