@@ -10,7 +10,7 @@
 </p>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🚀 About Me
+## 🚀About Me
 
 💡 CSE student at **AKTU UNIVERSITY**  
 🔍 Passionate about **AI/ML**, **Cybersecurity**, and **Full-Stack Development**  
@@ -21,14 +21,14 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌌 Tech Universe – Languages & Frameworks
+## 🌌Tech Universe – Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,java,c,html,css,mysql,react,next,nodejs,firebase,linux,github,vscode&theme=dark" />
 </p>
 
 <br>
 
-<h2>⚙️ Tools</h2>
+<h2>⚙️Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
@@ -38,7 +38,7 @@
 </p>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🚀 Highlighted Projects
+## 🚀Highlighted Projects
 
 | ⭐ Project | 🔍 Description | 🛠 Tech |
 |-----------|----------------|--------|
@@ -51,7 +51,7 @@
 <br>
 
 <!-- ─────────────────────────────────────────────── -->
-## 🌍 Connect With Me
+## 🌍Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/parth-singh-880215310/">
@@ -73,24 +73,24 @@
 
 <br>
 
-## 🏆 GitHub Stats
+## 🏆GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true" height="190"/>
 </p>
 
-## 🛠️ Top Languages
+## 🛠️Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
-## 📊 Contribution Graph
+## 📊Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
 
 <br>
 
-## ✨ Quote of the Day
+##  📘Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
