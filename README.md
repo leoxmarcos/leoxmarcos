@@ -28,6 +28,8 @@
 </p>
 <br>
 
+---
+
 <h2>⚙️Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-38BDF8?style=for-the-badge&logo=numpy&logoColor=38BDF8&labelColor=000000&color=000000" />
@@ -37,7 +39,7 @@
   <img src="https://img.shields.io/badge/MS%20Excel-38BDF8?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8&labelColor=000000&color=000000"/>
 </p>
 
-
+<br>
 <!-- ─────────────────────────────────────────────── -->
 ## 🚀Highlighted Projects
 
