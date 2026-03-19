@@ -64,20 +64,24 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-singh-880215310/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=A78BFA" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=00C97B" />
   </a>
   <a href="mailto:parthsingh1947@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=A78BFA" />
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=00C97B" />
   </a>
   <a href="https://leetcode.com/u/leo_x_marcos/">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=A78BFA" />
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=00C97B" />
   </a>
   <a href="https://www.codechef.com/users/leo_marcos47">
-    <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=00FF9C&labelColor=A78BFA" />
+    <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=00FF9C&labelColor=00C97B" />
   </a>
   <a href="https://x.com/parth_sing54618">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00FF9C&labelColor=A78BFA" />
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00FF9C&labelColor=00C97B" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2"/>
 </p>
 
 ---
