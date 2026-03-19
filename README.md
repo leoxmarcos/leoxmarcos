@@ -43,14 +43,15 @@
 
 ---
 
+
 ## ⚙️ Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF9C&labelColor=00C97B" />
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF9C&labelColor=00C97B" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C&labelColor=00C97B" />
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF9C&labelColor=00C97B" />
-  <img src="https://img.shields.io/badge/MS%20Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF9C&labelColor=00C97B"/>
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF9C&labelColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF9C&labelColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C&labelColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF9C&labelColor=A78BFA" />
+  <img src="https://img.shields.io/badge/MS%20Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF9C&labelColor=A78BFA"/>
 </p>
 
 ---
@@ -70,22 +71,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-singh-880215310/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=00C97B" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=A78BFA" />
   </a>
   <a href="mailto:parthsingh1947@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=00C97B" />
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=A78BFA" />
   </a>
   <a href="https://leetcode.com/u/leo_x_marcos/">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=00C97B" />
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=A78BFA" />
   </a>
   <a href="https://www.codechef.com/users/leo_marcos47">
-    <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=00FF9C&labelColor=00C97B" />
+    <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=00FF9C&labelColor=A78BFA" />
   </a>
   <a href="https://x.com/parth_sing54618">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00FF9C&labelColor=00C97B" />
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00FF9C&labelColor=A78BFA" />
   </a>
 </p>
-
 ---
 
 ## 🏆 GitHub Stats
