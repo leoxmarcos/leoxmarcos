@@ -11,27 +11,20 @@
 
 ## 🚀 About Me
 
-💡 CSE student at **AKTU University**  
-🔍 Passionate about **AI/ML, Cybersecurity & Full-Stack Development**  
-🎓 2nd-year B.Tech student  
-⚡ Focused on **DSA, real-world problem solving**  
-🔥 Building modern web apps & intelligent systems  
+💡 CSE student at **AKTU University** with a strong interest in building real-world tech solutions  
+🔍 Exploring **AI/ML, Cybersecurity, and Full-Stack Development**  
+🎓 Currently in **2nd year (B.Tech)**, actively strengthening core fundamentals  
+⚡ Focused on **Data Structures, Algorithms & scalable problem-solving**  
+🔥 Passionate about creating **efficient, user-focused, and intelligent applications**
 
 ---
 
 ## 🧠 Currently Learning
 
-- Advanced Data Structures & Algorithms  
-- Machine Learning Models  
-- Backend Development (Node.js & APIs)  
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build 5+ production-level projects  
-- 💼 Crack a top product-based company  
-- 🧠 Master DSA & System Design  
+- 📊 Advanced **Data Structures & Algorithms (DSA)**  
+- 🤖 Core **Machine Learning concepts & model building**  
+- 🌐 Backend development with **Node.js, Express & REST APIs**  
+- ☁️ Exploring **cloud tools & deployment workflows**
 
 ---
 
@@ -86,6 +79,7 @@
     <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00FF9C&labelColor=A78BFA" />
   </a>
 </p>
+
 ---
 
 ## 🏆 GitHub Stats
