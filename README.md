@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A78BFA&height=2"/>
 </p>
 
 ## 🚀 Highlighted Projects
