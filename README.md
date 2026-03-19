@@ -47,7 +47,10 @@
   <img src="https://img.shields.io/badge/MS%20Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF9C&labelColor=A78BFA"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2"/>
+</p>
+
 
 ## 🚀 Highlighted Projects
 
@@ -84,7 +87,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2"/>
 </p>
 
----
+
 
 ## 🏆 GitHub Stats
 
