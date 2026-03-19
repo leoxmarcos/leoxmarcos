@@ -51,15 +51,47 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2"/>
 </p>
 
-
 ## 🚀 Highlighted Projects
 
-| 🚀 Project | 💡 Description | ⚙️ Tech |
-|----------|--------------|--------|
-| 🎯 LeetCode DSA | Optimized problem-solving solutions | C++, Python |
-| 🎨 Frontend Projects | UI, landing pages, web apps | HTML, CSS, JS, React |
-| 🤖 AI/ML Scripts | ML models & experiments | Python, NumPy, Pandas |
-| 🎵 Music App | Playlist + cloud sync | Firebase, JS |
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎯 LeetCode DSA  
+🔹 Solved multiple DSA problems with optimized approaches  
+🔹 Focus on time & space complexity  
+⚙️ **Tech:** C++, Python  
+
+</td>
+<td width="50%">
+
+### 🎨 Frontend Projects  
+🔹 Responsive UI designs & modern web apps  
+🔹 Built landing pages with clean UX  
+⚙️ **Tech:** HTML, CSS, JavaScript, React  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI/ML Scripts  
+🔹 Implemented ML models & data analysis  
+🔹 Hands-on with real datasets  
+⚙️ **Tech:** Python, NumPy, Pandas, Scikit-learn  
+
+</td>
+<td width="50%">
+
+### 🎵 Music Library App  
+🔹 Playlist management & audio player  
+🔹 Cloud sync using Firebase  
+⚙️ **Tech:** JavaScript, Firebase  
+
+</td>
+</tr>
+</table>
 
 ---
 
