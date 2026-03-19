@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## 📗About Me
 
 💡 CSE student at **AKTU University** with a strong interest in building real-world tech solutions  
 🔍 Exploring **AI/ML, Cybersecurity, and Full-Stack Development**  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 Currently Learning
+## 🪻Currently Learning
 
 - 📊 Advanced **Data Structures & Algorithms (DSA)**  
 - 🤖 Core **Machine Learning concepts & model building**  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&theme=dark&perline=8" />
@@ -37,7 +37,7 @@
 ---
 
 
-## ⚙️ Tools
+## ⚙️Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF9C&labelColor=A78BFA" />
@@ -51,7 +51,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=A78BFA&height=2"/>
 </p>
 
-## 🚀 Highlighted Projects
+## 🎮Highlighted Projects
 
 <table align="center">
 <tr>
@@ -95,7 +95,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## ♟️Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-singh-880215310/">
@@ -121,7 +121,7 @@
 
 
 
-## 🏆 GitHub Stats
+## 🏆GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true" height="180"/>
@@ -133,7 +133,7 @@
 
 ---
 
-## 📊 Contribution Graph
+## 📊Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=0D1117&color=00FF9C&line=00FF9C&point=7CFFB2&area=true&area_color=00C97B&hide_border=true" width="95%"/>
@@ -141,7 +141,7 @@
 
 ---
 
-## 📘 Quote of the Day
+## 🎬Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -150,5 +150,5 @@
 ---
 
 <p align="center">
-  💚 <b>Thanks for visiting — Let's Build Something Amazing Together!</b> 💚
+  🪻 <b>Thanks for visiting — Let's Build Something Amazing Together!</b> 🪻
 </p>
