@@ -132,7 +132,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=0D1117&color=00FF9C&line=00FF9C&point=7CFFB2&area=true&area_color=00C97B&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=000000&color=A78BFA&line=00FF9C&point=C4B5FD&area=true&area_color=7C3AED&hide_border=true" width="95%"/>
 </p>
 
 ---
