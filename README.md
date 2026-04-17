@@ -1,34 +1,35 @@
-<!-- 🟢 EMERALD NEON HEADER -->
+<!-- 🟢 NEON HEADER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=900&lines=Hey+I'm+Parth+Singh;Full+Stack+Developer;AI+%7C+Cybersecurity+%7C+Problem+Solver" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-0D1117?style=for-the-badge&logo=education&logoColor=00FF9C&labelColor=00C97B" />
+  <img src="https://img.shields.io/badge/CSE%20Student-0D1117?style=for-the-badge&logo=bookstack&logoColor=00FF9C&labelColor=00C97B" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Learner-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=00C97B" />
 </p>
 
 ---
 
-## 📗About Me
+## 🚀 About Me
 
-💡 CSE student at **AKTU University** with a strong interest in building real-world tech solutions  
-🔍 Exploring **AI/ML, Cybersecurity, and Full-Stack Development**  
-🎓 Currently in **2nd year (B.Tech)**, actively strengthening core fundamentals  
-⚡ Focused on **Data Structures, Algorithms & scalable problem-solving**  
-🔥 Passionate about creating **efficient, user-focused, and intelligent applications**
-
----
-
-## 🪻Currently Learning
-
-- 📊 Advanced **Data Structures & Algorithms (DSA)**  
-- 🤖 Core **Machine Learning concepts & model building**  
-- 🌐 Backend development with **Node.js, Express & REST APIs**  
-- ☁️ Exploring **cloud tools & deployment workflows**
+🎓 **CSE Student @ AKTU University (2nd Year)**  
+💡 I build **scalable, real-world applications** with a focus on performance & usability  
+🧠 Strong interest in **AI/ML, Cybersecurity & Full-Stack Development**  
+⚙️ Currently sharpening **DSA + System Thinking**  
+🔥 Goal: Become a **high-impact software engineer** & problem solver  
 
 ---
 
-## 🛠️Tech Stack
+## 📈 What I'm Currently Working On
+
+- ⚡ Solving **advanced DSA problems daily**
+- 🤖 Building **ML models from scratch**
+- 🌐 Developing **REST APIs & backend systems**
+- ☁️ Learning **deployment, cloud & DevOps basics**
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&theme=dark&perline=8" />
@@ -36,39 +37,39 @@
 
 ---
 
-
-## ⚙️Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF9C&labelColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF9C&labelColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C&labelColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF9C&labelColor=A78BFA" />
-  <img src="https://img.shields.io/badge/MS%20Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF9C&labelColor=A78BFA"/>
-</p>
+## 🧪 Tools & Libraries
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=A78BFA&height=2"/>
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF9C&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF9C&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF9C&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF9C&labelColor=7C3AED"/>
 </p>
 
-## 🎮Highlighted Projects
+---
 
-<table align="center">
+## 🎯 Featured Work
+
+<table>
 <tr>
 <td width="50%">
 
-### 🎯 LeetCode DSA  
-🔹 Solved multiple DSA problems with optimized approaches  
-🔹 Focus on time & space complexity  
-⚙️ **Tech:** C++, Python  
+### 🧠 DSA Journey  
+✔️ Solved **100+ problems**  
+✔️ Focus on **optimized approaches**  
+✔️ Strong grip on **complexity analysis**  
+
+**Tech:** C++, Python  
 
 </td>
 <td width="50%">
 
 ### 🎨 Frontend Projects  
-🔹 Responsive UI designs & modern web apps  
-🔹 Built landing pages with clean UX  
-⚙️ **Tech:** HTML, CSS, JavaScript, React  
+✔️ Built **responsive UI & modern layouts**  
+✔️ Focus on **clean UX & performance**  
+
+**Tech:** HTML, CSS, JS, React  
 
 </td>
 </tr>
@@ -76,18 +77,20 @@
 <tr>
 <td width="50%">
 
-### 🤖 AI/ML Scripts  
-🔹 Implemented ML models & data analysis  
-🔹 Hands-on with real datasets  
-⚙️ **Tech:** Python, NumPy, Pandas, Scikit-learn  
+### 🤖 AI / ML Projects  
+✔️ Worked with **real datasets**  
+✔️ Implemented **core ML algorithms**  
+
+**Tech:** Python, Pandas, Scikit-learn  
 
 </td>
 <td width="50%">
 
-### 🎵 Music Library App  
-🔹 Playlist management & audio player  
-🔹 Cloud sync using Firebase  
-⚙️ **Tech:** JavaScript, Firebase  
+### 🎵 Music App  
+✔️ Playlist + audio player  
+✔️ Firebase-based sync  
+
+**Tech:** JS, Firebase  
 
 </td>
 </tr>
@@ -95,7 +98,7 @@
 
 ---
 
-## ♟️Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-singh-880215310/">
@@ -110,18 +113,11 @@
   <a href="https://www.codechef.com/users/leo_marcos47">
     <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=00FF9C&labelColor=00C97B" />
   </a>
-  <a href="https://x.com/parth_sing54618">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00FF9C&labelColor=00C97B" />
-  </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2"/>
-</p>
+---
 
-
-
-## 🏆GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true" height="180"/>
@@ -133,7 +129,7 @@
 
 ---
 
-## 📊Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=0D1117&color=00FF9C&line=00FF9C&point=7CFFB2&area=true&area_color=00C97B&hide_border=true" width="95%"/>
@@ -141,7 +137,7 @@
 
 ---
 
-## 🎬Quote of the Day
+## 💭 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -150,5 +146,5 @@
 ---
 
 <p align="center">
-  🪻 <b>Thanks for visiting — Let's Build Something Amazing Together!</b> 🪻
+  ⚡ <b>“Code. Learn. Build. Repeat.”</b> ⚡
 </p>
