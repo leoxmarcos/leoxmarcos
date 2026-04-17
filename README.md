@@ -120,11 +120,11 @@
 ## 📊GitHub Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA&text_color=C4B5FD" />
 </p>
 
 ---
@@ -132,7 +132,7 @@
 ## 📊Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&theme=react-dark&bg_color=000000&color=A78BFA&line=00FF9C&point=A78BFA&area=true&area_color=7C3AED&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" width="95%"/>
 </p>
 
 ---
