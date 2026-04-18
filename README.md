@@ -120,7 +120,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=000000&color=00BFFF&line=00BFFF&point=38BDF8&area=true&area_color=0A192F&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=000000&color=00BFFF&line=00BFFF&point=00BFFF&area=true&area_color=00BFFF&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -128,7 +128,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true&ring=00BFFF&fire=38BDF8&currStreakLabel=00BFFF" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" height="180"/>
 </p>
 
 ---
