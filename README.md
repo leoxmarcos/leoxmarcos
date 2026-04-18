@@ -1,16 +1,16 @@
-<!-- 🟢 NEON HEADER -->
+<!-- 🟦 CARBON BLUE HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=900&lines=Hey+I'm+Parth+Singh;Full+Stack+Developer;AI+%7C+Cybersecurity+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=900&lines=Hey+I'm+Parth+Singh;Full+Stack+Developer;AI+%7C+Cybersecurity+%7C+Problem+Solver" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-0D1117?style=for-the-badge&logo=bookstack&logoColor=00FF9C&labelColor=00C97B" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Learner-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=00C97B" />
+  <img src="https://img.shields.io/badge/CSE%20Student-000000?style=for-the-badge&logo=bookstack&logoColor=00BFFF&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Learner-000000?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=0A192F" />
 </p>
 
 ---
 
-## 🚀About Me
+## 🚀 About Me
 
 🎓 **CSE Student @ AKTU University (2nd Year)**  
 💡 I build **scalable, real-world applications** with a focus on performance & usability  
@@ -20,7 +20,7 @@
 
 ---
 
-## 📈What I'm Currently Working On
+## 📈 What I'm Currently Working On
 
 - ⚡ Solving **advanced DSA problems daily**
 - 🤖 Building **ML models from scratch**
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧰Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&theme=dark&perline=8" />
@@ -37,25 +37,25 @@
 
 ---
 
-## 🧪Tools & Libraries
+## 🧪 Tools & Libraries
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF9C&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF9C&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF9C&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF9C&labelColor=7C3AED"/>
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00BFFF&labelColor=1E3A8A" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00BFFF&labelColor=1E3A8A" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF&labelColor=1E3A8A" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00BFFF&labelColor=1E3A8A" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF&labelColor=1E3A8A"/>
 </p>
 
 ---
 
-## 🎯Featured Work
+## 🎯 Featured Work
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠DSA Journey  
+### 🧠 DSA Journey  
 ✔️ Solved **100+ problems**  
 ✔️ Focus on **optimized approaches**  
 ✔️ Strong grip on **complexity analysis**  
@@ -65,7 +65,7 @@
 </td>
 <td width="50%">
 
-### 🎨Frontend Projects  
+### 🎨 Frontend Projects  
 ✔️ Built **responsive UI & modern layouts**  
 ✔️ Focus on **clean UX & performance**  
 
@@ -77,7 +77,7 @@
 <tr>
 <td width="50%">
 
-### 🤖AI / ML Projects  
+### 🤖 AI / ML Projects  
 ✔️ Worked with **real datasets**  
 ✔️ Implemented **core ML algorithms**  
 
@@ -86,7 +86,7 @@
 </td>
 <td width="50%">
 
-### 🎵Music App  
+### 🎵 Music App  
 ✔️ Playlist + audio player  
 ✔️ Firebase-based sync  
 
@@ -98,51 +98,49 @@
 
 ---
 
-## 🌐Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-singh-880215310/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=00C97B" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&labelColor=0A192F" />
   </a>
   <a href="mailto:parthsingh1947@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=00C97B" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF&labelColor=0A192F" />
   </a>
   <a href="https://leetcode.com/u/leo_x_marcos/">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=00C97B" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00BFFF&labelColor=0A192F" />
   </a>
   <a href="https://www.codechef.com/users/leo_marcos47">
-    <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=00FF9C&labelColor=00C97B" />
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=00BFFF&labelColor=0A192F" />
   </a>
 </p>
 
 ---
 
-
-## 📊Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=000000&color=00FF9C&line=00FF9C&point=00FF9C&area=true&area_color=00FF9C&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=000000&color=00BFFF&line=00BFFF&point=38BDF8&area=true&area_color=0A192F&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-
-## 📊GitHub Insights
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true&ring=00BFFF&fire=38BDF8&currStreakLabel=00BFFF" height="180"/>
 </p>
 
 ---
 
-## 💭Dev Quote
+## 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
 <p align="center">
-  ⚡ <b>“Code. Learn. Build. Repeat.”</b> ⚡
+  ⚡ <b style="color:#00BFFF;">Code. Learn. Build. Repeat.</b> ⚡
 </p>
