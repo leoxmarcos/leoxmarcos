@@ -133,13 +133,6 @@
 
 ---
 
-## 📊Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=000000&color=1E3A8A&line=1E3A8A&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" width="95%"/>
-</p>
-
----
 ## 🔥GitHub Streak
 
 <p align="center">
@@ -147,6 +140,15 @@
 </p>
 
 ---
+
+## 📊Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=0D1117&color=1E3A8A&line=1E3A8A&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" width="95%"/>
+</p>
+
+---
+
 
 ## 💭Dev Quote
 
