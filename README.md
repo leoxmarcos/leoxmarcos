@@ -125,6 +125,9 @@
   <a href="https://www.codechef.com/users/leo_marcos47">
     <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
   </a>
+  <a href="https://www.geeksforgeeks.org/profile/leomarcos47">
+    <img src="https://img.shields.io/badge/GFG-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF" />
+  </a>
 </p>
 
 ---
