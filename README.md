@@ -1,11 +1,11 @@
-<!-- 🟦 CARBON BLUE HEADER -->
+<!-- 🔵 DARK CARBON BLUE HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=900&lines=Hey+I'm+Parth+Singh;Full+Stack+Developer;AI+%7C+Cybersecurity+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=1F6FEB&center=true&vCenter=true&width=900&lines=Hey+I'm+Parth+Singh;Full+Stack+Developer;AI+%7C+Cybersecurity+%7C+Problem+Solver" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-000000?style=for-the-badge&logo=bookstack&logoColor=00BFFF&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Learner-000000?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/CSE%20Student-000000?style=for-the-badge&logo=bookstack&logoColor=1F6FEB&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Learner-000000?style=for-the-badge&logo=github&logoColor=1F6FEB&labelColor=0A192F" />
 </p>
 
 ---
@@ -40,11 +40,11 @@
 ## 🧪 Tools & Libraries
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00BFFF&labelColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00BFFF&labelColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF&labelColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00BFFF&labelColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF&labelColor=1E3A8A"/>
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=1F6FEB&labelColor=112240" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=1F6FEB&labelColor=112240" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=1F6FEB&labelColor=112240" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=1F6FEB&labelColor=112240" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=1F6FEB&labelColor=112240"/>
 </p>
 
 ---
@@ -102,16 +102,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-singh-880215310/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1F6FEB&labelColor=0A192F" />
   </a>
   <a href="mailto:parthsingh1947@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=1F6FEB&labelColor=0A192F" />
   </a>
   <a href="https://leetcode.com/u/leo_x_marcos/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00BFFF&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=1F6FEB&labelColor=0A192F" />
   </a>
   <a href="https://www.codechef.com/users/leo_marcos47">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=00BFFF&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=1F6FEB&labelColor=0A192F" />
   </a>
 </p>
 
@@ -120,7 +120,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=000000&color=00BFFF&line=00BFFF&point=00BFFF&area=true&area_color=00BFFF&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=000000&color=1F6FEB&line=1F6FEB&point=3B82F6&area=true&area_color=0A192F&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -128,7 +128,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" height="180"/>
 </p>
 
 ---
@@ -142,5 +142,5 @@
 ---
 
 <p align="center">
-  ⚡ <b style="color:#00BFFF;">Code. Learn. Build. Repeat.</b> ⚡
+  ⚡ <b style="color:#1F6FEB;">Code. Learn. Build. Repeat.</b> ⚡
 </p>
