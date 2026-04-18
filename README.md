@@ -41,19 +41,19 @@
 <p align="center">
 
   <!-- 🔵 Dark Blue -->
-  <img src="https://img.shields.io/badge/NumPy-112240?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/NumPy-1E3A8A?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
 
   <!-- ⚫ Black -->
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
 
   <!-- 🔵 Dark Blue -->
-  <img src="https://img.shields.io/badge/Scikit--Learn-112240?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-1E3A8A?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" />
 
   <!-- ⚫ Black -->
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFFFFF" />
 
   <!-- 🔵 Dark Blue -->
-  <img src="https://img.shields.io/badge/Excel-112240?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Excel-1E3A8A?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF"/>
 
 </p>
  
