@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀About Me
 
 🎓 **CSE Student @ AKTU University (2nd Year)**  
 💡 I build **scalable, real-world applications** with a focus on performance & usability  
@@ -20,7 +20,7 @@
 
 ---
 
-## 📈 What I'm Currently Working On
+## 📈What I'm Currently Working On
 
 - ⚡ Solving **advanced DSA problems daily**
 - 🤖 Building **ML models from scratch**
@@ -29,14 +29,14 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&theme=dark&perline=8" />
 </p>
 
 ---
-## 🧪 Tools & Libraries
+## 🧪Tools & Libraries
 
 <p align="center">
 
@@ -61,13 +61,13 @@
 
 ---
 
-## 🎯 Featured Work
+## 🎯Featured Work
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 DSA Journey  
+### 🧠DSA Journey  
 ✔️ Solved **100+ problems**  
 ✔️ Focus on **optimized approaches**  
 ✔️ Strong grip on **complexity analysis**  
@@ -77,7 +77,7 @@
 </td>
 <td width="50%">
 
-### 🎨 Frontend Projects  
+### 🎨Frontend Projects  
 ✔️ Built **responsive UI & modern layouts**  
 ✔️ Focus on **clean UX & performance**  
 
@@ -89,7 +89,7 @@
 <tr>
 <td width="50%">
 
-### 🤖 AI / ML Projects  
+### 🤖AI / ML Projects  
 ✔️ Worked with **real datasets**  
 ✔️ Implemented **core ML algorithms**  
 
@@ -98,7 +98,7 @@
 </td>
 <td width="50%">
 
-### 🎵 Music App  
+### 🎵Music App  
 ✔️ Playlist + audio player  
 ✔️ Firebase-based sync  
 
@@ -110,26 +110,26 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-singh-880215310/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1F6FEB&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
   <a href="mailto:parthsingh1947@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=1F6FEB&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
   </a>
   <a href="https://leetcode.com/u/leo_x_marcos/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=1F6FEB&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/LeetCode-1E3A8A?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" />
   </a>
   <a href="https://www.codechef.com/users/leo_marcos47">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=1F6FEB&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
   </a>
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 📊Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=000000&color=1F6FEB&line=1F6FEB&point=3B82F6&area=true&area_color=0A192F&hide_border=true" width="95%"/>
@@ -137,7 +137,7 @@
 
 ---
 
-## 📊 GitHub Insights
+## 📊GitHub Insights
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" height="180"/>
@@ -145,7 +145,7 @@
 
 ---
 
-## 💭 Dev Quote
+## 💭Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
