@@ -113,6 +113,9 @@
 ## 🌐Connect With Me
 
 <p align="center">
+   <a href="https://www.geeksforgeeks.org/profile/leomarcos47">
+    <img src="https://img.shields.io/badge/GFG-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF" />
+  </a>
   <a href="https://www.linkedin.com/in/parth-singh-880215310/">
     <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
@@ -125,9 +128,7 @@
   <a href="https://www.codechef.com/users/leo_marcos47">
     <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/leomarcos47">
-    <img src="https://img.shields.io/badge/GFG-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF" />
-  </a>
+ 
 </p>
 
 ---
@@ -139,11 +140,10 @@
 </p>
 
 ---
-
 ## 📊GitHub Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=tokyonight&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=default&hide_border=true&background=000000&stroke=1E3A8A&ring=1E3A8A&fire=1E3A8A&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" height="180"/>
 </p>
 
 ---
