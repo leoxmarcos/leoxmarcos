@@ -40,13 +40,12 @@
 ## 🧪 Tools & Libraries
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=1F6FEB&labelColor=112240" />
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=1F6FEB&labelColor=112240" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=1F6FEB&labelColor=112240" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=1F6FEB&labelColor=112240" />
-  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=1F6FEB&labelColor=112240"/>
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=1F6FEB&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=1F6FEB&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=1F6FEB&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=1F6FEB&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=1F6FEB&labelColor=0A192F"/>
 </p>
-
 ---
 
 ## 🎯 Featured Work
