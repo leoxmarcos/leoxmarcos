@@ -61,13 +61,13 @@
 
 ---
 
-## 🎯Featured Work
+## 🎯 Featured Work
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🧠DSA Journey  
+### 🧠 DSA Journey  
 ✔️ Solved **100+ problems**  
 ✔️ Focus on **optimized approaches**  
 ✔️ Strong grip on **complexity analysis**  
@@ -75,9 +75,9 @@
 **Tech:** C++, Python  
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🎨Frontend Projects  
+### 🎨 Frontend Projects  
 ✔️ Built **responsive UI & modern layouts**  
 ✔️ Focus on **clean UX & performance**  
 
@@ -87,18 +87,18 @@
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🤖AI / ML Projects  
+### 🤖 AI / ML Projects  
 ✔️ Worked with **real datasets**  
 ✔️ Implemented **core ML algorithms**  
 
 **Tech:** Python, Pandas, Scikit-learn  
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🎵Music App  
+### 🎵 Music App  
 ✔️ Playlist + audio player  
 ✔️ Firebase-based sync  
 
@@ -152,7 +152,7 @@
 ## 💭Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=161B22&border_color=1E3A8A&text_color=FFFFFF&quote_color=1E3A8A&author_color=FFFFFF" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
