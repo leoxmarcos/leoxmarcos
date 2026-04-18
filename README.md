@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-0A192F?style=for-the-badge&logo=bookstack&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Learner-000000?style=for-the-badge&logo=github&logoColor=1F6FEB" />
+  <img src="https://img.shields.io/badge/CSE%20Student-1E3A8A?style=for-the-badge&logo=bookstack&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Learner-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </p>
 
 ---
@@ -29,13 +29,6 @@
 
 ---
 
-## 🧰Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&theme=dark&perline=8" />
-</p>
-
----
 ## 🧪Tools & Libraries
 
 <p align="center">
@@ -56,8 +49,14 @@
   <img src="https://img.shields.io/badge/Excel-1E3A8A?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF"/>
 
 </p>
- 
-   
+
+---
+
+ ## 🧰Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&theme=dark&perline=8" />
+</p>
 
 ---
 
