@@ -40,22 +40,14 @@
 
 <p align="center">
 
-  <!-- 🔵 Dark Blue -->
-  <img src="https://img.shields.io/badge/NumPy-0A192F?style=flat&logo=numpy&logoColor=FFFFFF" />
-
-  <!-- ⚫ Black -->
-  <img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=FFFFFF" />
-
-  <!-- 🔵 Dark Blue -->
-  <img src="https://img.shields.io/badge/Scikit--Learn-0A192F?style=flat&logo=scikitlearn&logoColor=FFFFFF" />
-
-  <!-- ⚫ Black -->
-  <img src="https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=FFFFFF" />
-
-  <!-- 🔵 Dark Blue -->
-  <img src="https://img.shields.io/badge/Excel-0A192F?style=flat&logo=microsoftexcel&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF"/>
 
 </p>
+ 
    
 
 ---
