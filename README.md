@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-000000?style=for-the-badge&logo=bookstack&logoColor=1F6FEB&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Learner-000000?style=for-the-badge&logo=github&logoColor=1F6FEB&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/CSE%20Student-0A192F?style=for-the-badge&logo=bookstack&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Learner-000000?style=for-the-badge&logo=github&logoColor=1F6FEB" />
 </p>
 
 ---
