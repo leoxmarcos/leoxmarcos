@@ -12,7 +12,7 @@
 
 ## 🚀About Me
 
-🎓 **CSE Student @ AKTU University (2nd Year)**  
+🎓 **CSE Student @ AKTU University (3nd Year)**  
 💡 I build **scalable, real-world applications** with a focus on performance & usability  
 🧠 Strong interest in **AI/ML, Cybersecurity & Full-Stack Development**  
 ⚙️ Currently sharpening **DSA + System Thinking**  
