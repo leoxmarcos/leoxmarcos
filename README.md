@@ -146,16 +146,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=161B22&color=FFFFFF&line=1E3A8A&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" width="95%"/>
 </p>
 
---- 
-
-## 💭Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 ---
 
-<p align="center">
-  ⚡ <b style="color:#1F6FEB;">Code. Learn. Build. Repeat.</b> ⚡
-</p>
+## 💭Dev Quote
