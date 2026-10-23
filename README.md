@@ -1,188 +1,163 @@
+ <!-- GRAPHITE + EMERALD MINT -->
 
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=34D399&center=true&vCenter=true&width=900&lines=Hey+I'm+Parth+Singh;Full+Stack+Developer;AI+%7C+Cybersecurity+%7C+Problem+Solver;Data+Science" alt="Typing SVG" />
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=30&duration=3000&pause=900&color=E8B4B8&center=true&vCenter=true&width=850&lines=PARTH+SINGH;Computer+Science+Student;Developer+%7C+Problem+Solver;Create+with+purpose." alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20Student-047857?style=for-the-badge&logo=bookstack&logoColor=ECFDF5" alt="CSE Student" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Learner-101418?style=for-the-badge&logo=github&logoColor=34D399" alt="Open Source Learner" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILD-101418?style=flat-square&labelColor=047857" />
+  <img src="https://img.shields.io/badge/LEARN-101418?style=flat-square&labelColor=047857" />
+  <img src="https://img.shields.io/badge/INNOVATE-101418?style=flat-square&labelColor=047857" />
+</p>
 
-<img src="https://img.shields.io/badge/CSE%20STUDENT-190B12?style=for-the-badge&logo=github&logoColor=E8B4B8" />
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-3A1727?style=for-the-badge&logo=opensourceinitiative&logoColor=E8B4B8" />
-<img src="https://img.shields.io/badge/DSA%20ENTHUSIAST-C9959D?style=for-the-badge&logo=leetcode&logoColor=190B12" />
+---
 
-<br/><br/>
+## 🚀 About Me
 
-### `Thoughtfully designed. Purposefully built.`
+🎓 **CSE Student @ AKTU University (3rd Year)**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12080D,35:4A1D30,65:C9959D,100:12080D&height=3&section=header" width="100%" />
+💡 I build **scalable, real-world applications** with a focus on performance & usability.
 
-</div>
+🧠 Strong interest in **AI/ML, Cybersecurity & Full-Stack Development**.
 
-## ❦ ABOUT ME
+⚙️ Currently sharpening **DSA + System Thinking**.
 
-> *Curiosity starts the journey. Consistency builds the craft.*
+🔥 Goal: Become a **high-impact software engineer** & problem solver.
 
-- 🎓 Computer Science student at **AKTU University**
-- 💻 Exploring **Full-Stack Development, AI/ML, and Cybersecurity**
-- 🧠 Strengthening problem-solving through Data Structures & Algorithms
-- 🌱 Learning by building projects and experimenting with new technologies
-- 🎯 Working toward becoming a skilled and versatile software engineer
+---
 
-## ❦ CURRENTLY EXPLORING
+## 📈 What I'm Currently Working On
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- ⚡ Solving **advanced DSA problems daily**
+- 🤖 Building ML models from scratch
+- 🌐 Developing REST APIs & backend systems
+- ☁️ Learning deployment, cloud & DevOps basics
 
-### 01 / Development
+---
 
-Building responsive interfaces and exploring full-stack application development.
+## 🧪 Tools & Libraries
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-047857?style=for-the-badge&logo=numpy&logoColor=ECFDF5" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-101418?style=for-the-badge&logo=pandas&logoColor=34D399" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-047857?style=for-the-badge&logo=scikitlearn&logoColor=ECFDF5" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Firebase-101418?style=for-the-badge&logo=firebase&logoColor=34D399" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Excel-047857?style=for-the-badge&logo=microsoftexcel&logoColor=ECFDF5" alt="Excel" />
+</p>
 
-### 02 / Problem Solving
+---
 
-Practicing DSA and learning to write clear, efficient solutions.
+## 🧰 Tech Stack
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&theme=dark&perline=8" alt="Tech Stack" />
+</p>
 
-### 03 / AI & Data
+---
 
-Exploring Python, data analysis, and machine learning concepts.
+## 🎯 Featured Work
 
-</td>
-<td width="50%" valign="top">
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
-### 04 / Engineering Tools
+### 🧠 DSA Journey
 
-Improving skills in Git, Linux, databases, and developer workflows.
+- ✔️ Solved **100+ problems**
+- ✔️ Focus on optimized approaches
+- ✔️ Complexity analysis
 
-</td>
-</tr>
-</table>
-
-## ❦ TECHNICAL ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,tailwind,git,github,linux,bash,vscode&perline=8&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NumPy-2A1420?style=flat-square&logo=numpy&logoColor=E8B4B8" />
-<img src="https://img.shields.io/badge/Pandas-2A1420?style=flat-square&logo=pandas&logoColor=E8B4B8" />
-<img src="https://img.shields.io/badge/Scikit--Learn-2A1420?style=flat-square&logo=scikitlearn&logoColor=E8B4B8" />
-<img src="https://img.shields.io/badge/Firebase-2A1420?style=flat-square&logo=firebase&logoColor=E8B4B8" />
-<img src="https://img.shields.io/badge/Excel-2A1420?style=flat-square&logo=microsoftexcel&logoColor=E8B4B8" />
-
-</div>
-
-## ❦ SELECTED WORK
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◇ DSA Journey
-
-**Focus — Algorithms**
-
-Practicing coding challenges and developing stronger computational thinking.
+**Tech:** C++, Python
 
 </td>
 <td width="50%" valign="top">
 
-### ◇ Frontend Projects
+### 🎨 Frontend Projects
 
-**Focus — User Experience**
+- ✔️ Responsive UI & modern layouts
+- ✔️ Clean UX & performance
+- ✔️ Interactive web experiences
 
-Creating responsive interfaces using modern web technologies.
+**Tech:** HTML, CSS, JS, React
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◇ AI / ML Projects
+### 🤖 AI / ML Projects
 
-**Focus — Data & Intelligence**
+- ✔️ Worked with real datasets
+- ✔️ Implemented core ML algorithms
+- ✔️ Exploring data-driven solutions
 
-Exploring Python-based data analysis and machine learning applications.
+**Tech:** Python, Pandas, Scikit-learn
 
 </td>
 <td width="50%" valign="top">
 
-### ◇ Music App
+### 🎵 Music App
 
-**Focus — Interactive Design**
+- ✔️ Playlist + audio player
+- ✔️ Firebase-based sync
 
-Experimenting with web interfaces and application functionality.
+**Tech:** JavaScript, Firebase
 
 </td>
 </tr>
 </table>
 
-<sub>Replace these summaries with links to your actual repositories before publishing.</sub>
+---
 
-## ❦ LET'S CONNECT
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/leomarcos47">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-101418?style=for-the-badge&logo=geeksforgeeks&logoColor=34D399" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.linkedin.com/in/parth-singh-880215310/">
+    <img src="https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&logo=linkedin&logoColor=ECFDF5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:parthsingh1947@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-101418?style=for-the-badge&logo=gmail&logoColor=34D399" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/u/leo_x_marcos/">
+    <img src="https://img.shields.io/badge/LeetCode-047857?style=for-the-badge&logo=leetcode&logoColor=ECFDF5" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/leo_marcos47">
+    <img src="https://img.shields.io/badge/CodeChef-101418?style=for-the-badge&logo=codechef&logoColor=34D399" alt="CodeChef" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/parth-singh-880215310/">
-<img src="https://img.shields.io/badge/LinkedIn-2A1420?style=for-the-badge&logo=linkedin&logoColor=E8B4B8" />
-</a>
-<a href="mailto:parthsingh1947@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-2A1420?style=for-the-badge&logo=gmail&logoColor=E8B4B8" />
-</a>
-<a href="https://www.geeksforgeeks.org/profile/leomarcos47">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2A1420?style=for-the-badge&logo=geeksforgeeks&logoColor=E8B4B8" />
-</a>
-<a href="https://leetcode.com/u/leo_x_marcos/">
-<img src="https://img.shields.io/badge/LeetCode-2A1420?style=for-the-badge&logo=leetcode&logoColor=E8B4B8" />
-</a>
-<a href="https://www.codechef.com/users/leo_marcos47">
-<img src="https://img.shields.io/badge/CodeChef-2A1420?style=for-the-badge&logo=codechef&logoColor=E8B4B8" />
-</a>
+---
 
-</div>
+## 🔥 GitHub Streak
 
-## ❦ GITHUB STREAK
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=dark&hide_border=true&background=101418&stroke=047857&ring=34D399&fire=34D399&currStreakLabel=34D399&sideNums=ECFDF5&currStreakNum=34D399&dates=9CA3AF&sideLabels=ECFDF5" height="180" alt="GitHub Streak" />
+</p>
 
-<div align="center">
+---
 
-<img width="80%" src="https://streak-stats.demolab.com?user=leoxmarcos&theme=dark&background=12080D&ring=C9959D&fire=E8B4B8&currStreakLabel=E8B4B8&sideLabels=E8B4B8&dates=B99BA5&border=4A1D30" alt="GitHub streak statistics" />
+## 📊 Contribution Graph
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=101418&color=ECFDF5&line=34D399&point=FFFFFF&area=true&area_color=047857&hide_border=true" width="95%" alt="Contribution Graph" />
+</p>
 
-## ❦ GITHUB AT A GLANCE
+---
 
-<div align="center">
+## 💭 Dev Quote
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=leoxmarcos&show_icons=true&hide_border=true&bg_color=12080D&title_color=E8B4B8&icon_color=C9959D&text_color=F5E9EC" alt="GitHub statistics" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote" />
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxmarcos&layout=compact&hide_border=true&bg_color=12080D&title_color=E8B4B8&text_color=F5E9EC" alt="Most used languages" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=12080D&color=F5E9EC&line=C9959D&point=E8B4B8&area=true&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
-## ❦ A NOTE TO SELF
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer quote" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12080D,35:4A1D30,65:C9959D,100:12080D&height=3&section=footer" width="100%" />
-
-### `Make it meaningful. Make it work.`
-
-<sub>MIDNIGHT BURGUNDY × ROSE GOLD · PERSONAL PROFILE EDITION</sub>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/KEEP%20BUILDING-101418?style=for-the-badge&labelColor=047857&logo=github&logoColor=34D399" alt="Keep Building" />
+</p>
