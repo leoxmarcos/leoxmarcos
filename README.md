@@ -19,15 +19,10 @@
 ## 🚀 About Me
 
 🎓 3rd-Year CSE Student @ AKTU University
-
 🔐 Exploring Cybersecurity, network security, and secure software development.
-
 📊 Interested in Data Science, data analysis, and extracting meaningful insights from data.
-
 🧩 Strengthening Data Structures & Algorithms (DSA) through consistent problem-solving.
-
 💻 Building practical projects while improving analytical thinking and coding efficiency.
-
 🎯 Aspiring to become a security-minded software engineer with strong data-driven problem-solving skills.
 
 ---
@@ -71,41 +66,74 @@
 
 </td>
 <td width="50%" valign="top">
+## 🎯 Featured Work
 
-### 🎨 Frontend Projects
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
-- ✔️ Responsive UI & modern layouts
-- ✔️ Clean UX & performance
-- ✔️ Interactive web experiences
+### 🧠 DSA Journey
 
-**Tech:** HTML, CSS, JS, React
+<a href="https://github.com/leoxmarcos/DSA-CPP">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-047857?style=for-the-badge&logo=github&logoColor=ECFDF5" alt="View DSA repository" />
+</a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- 📌 Practicing DSA using C++
+- ⚡ Focus on optimized solutions
+- 📊 Analyzing time and space complexity
 
-### 🤖 AI / ML Projects
-
-- ✔️ Worked with real datasets
-- ✔️ Implemented core ML algorithms
-- ✔️ Exploring data-driven solutions
-
-**Tech:** Python, Pandas, Scikit-learn
+**Tech:** C++ · Problem Solving
 
 </td>
 <td width="50%" valign="top">
 
-### 🎵 Music App
+### 🤖 PrepAI
 
-- ✔️ Playlist + audio player
-- ✔️ Firebase-based sync
+<a href="https://preai-git-main-nandanis-projects-20af734f.vercel.app/">
+  <img src="https://img.shields.io/badge/EXPLORE_PREPAI-101418?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Explore PrepAI" />
+</a>
 
-**Tech:** JavaScript, Firebase
+- 🎯 AI-powered interview preparation
+- 💬 Domain-based mock interviews
+- 📄 Resume analysis and feedback
+
+**Tech:** React · Express.js · Gemini API
 
 </td>
-</tr>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎵 Music Library
+
+<a href="https://studio-ruby-two-75.vercel.app/">
+  <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-047857?style=for-the-badge&logo=vercel&logoColor=ECFDF5" alt="Open Music Library" />
+</a>
+
+- 🎧 Music-focused web experience
+- 🎨 Interactive user interface
+- 🎵 Explore the live application
+
+**Tech:** Web Development
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Science
+
+- 🐍 Exploring data analysis with Python
+- 📈 Learning data visualization
+- 🧪 Practicing machine learning concepts
+
+**Tech:** Python · Pandas · NumPy · Scikit-learn
+
+</td>
+  </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101418,50:047857,100:101418&height=3&section=footer" width="85%" />
+</p>
 
 ---
 
