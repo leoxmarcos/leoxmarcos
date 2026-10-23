@@ -16,14 +16,14 @@
 </p>
 
 ---
-## 🚀 About Me
 
-🎓 3rd-Year CSE Student @ AKTU University
-🔐 Exploring Cybersecurity, network security, and secure software development.
-📊 Interested in Data Science, data analysis, and extracting meaningful insights from data.
-🧩 Strengthening Data Structures & Algorithms (DSA) through consistent problem-solving.
-💻 Building practical projects while improving analytical thinking and coding efficiency.
-🎯 Aspiring to become a security-minded software engineer with strong data-driven problem-solving skills.
+## 🚀 About Me
+🎓 **3rd-Year CSE Student @ AKTU University**  
+🔐 Exploring **Cybersecurity & Network Security**, with a focus on secure software development.  
+📊 Interested in **Data Science**, data analysis, and transforming data into meaningful insights.  
+🧩 Strengthening my **DSA skills** through consistent problem-solving and optimized C++ solutions.  
+💻 Building practical projects that combine programming, analytical thinking, and real-world problem-solving.  
+🎯 Aspiring to become a **security-minded software engineer** with strong data-driven and problem-solving skills.
 
 ---
  
@@ -50,22 +50,6 @@
 
 ---
 
-## 🎯 Featured Work
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧠 DSA Journey
-
-- ✔️ Solved **100+ problems**
-- ✔️ Focus on optimized approaches
-- ✔️ Complexity analysis
-
-**Tech:** C++, Python
-
-</td>
-<td width="50%" valign="top">
 ## 🎯 Featured Work
 
 <table align="center">
