@@ -26,21 +26,6 @@
 🎯 Aspiring to become a **security-minded software engineer** with strong data-driven and problem-solving skills.
 
 ---
- 
-## 🧪 Tools & Libraries
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-101418?style=for-the-badge&logo=python&logoColor=34D399" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-047857?style=for-the-badge&logo=numpy&logoColor=ECFDF5" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-101418?style=for-the-badge&logo=pandas&logoColor=34D399" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-047857?style=for-the-badge&logo=scikitlearn&logoColor=ECFDF5" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Linux-101418?style=for-the-badge&logo=linux&logoColor=34D399" alt="Linux" />
-  <img src="https://img.shields.io/badge/MySQL-047857?style=for-the-badge&logo=mysql&logoColor=ECFDF5" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-101418?style=for-the-badge&logo=git&logoColor=34D399" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-047857?style=for-the-badge&logo=github&logoColor=ECFDF5" alt="GitHub" />
-</p>
-
----
 
 ## 🧰 Tech Stack
 
@@ -117,6 +102,22 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101418,50:047857,100:101418&height=3&section=footer" width="85%" />
+</p>
+
+---
+
+ 
+## 🧪 Tools & Libraries
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-101418?style=for-the-badge&logo=python&logoColor=34D399" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-047857?style=for-the-badge&logo=numpy&logoColor=ECFDF5" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-101418?style=for-the-badge&logo=pandas&logoColor=34D399" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-047857?style=for-the-badge&logo=scikitlearn&logoColor=ECFDF5" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Linux-101418?style=for-the-badge&logo=linux&logoColor=34D399" alt="Linux" />
+  <img src="https://img.shields.io/badge/MySQL-047857?style=for-the-badge&logo=mysql&logoColor=ECFDF5" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-101418?style=for-the-badge&logo=git&logoColor=34D399" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-047857?style=for-the-badge&logo=github&logoColor=ECFDF5" alt="GitHub" />
 </p>
 
 ---
