@@ -16,30 +16,22 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
-🎓 **CSE Student @ AKTU University (3rd Year)**
+🎓 3rd-Year CSE Student @ AKTU University
 
-💡 I build **scalable, real-world applications** with a focus on performance & usability.
+🔐 Exploring Cybersecurity, network security, and secure software development.
 
-🧠 Strong interest in **AI/ML, Cybersecurity & Full-Stack Development**.
+📊 Interested in Data Science, data analysis, and extracting meaningful insights from data.
 
-⚙️ Currently sharpening **DSA + System Thinking**.
+🧩 Strengthening Data Structures & Algorithms (DSA) through consistent problem-solving.
 
-🔥 Goal: Become a **high-impact software engineer** & problem solver.
+💻 Building practical projects while improving analytical thinking and coding efficiency.
 
----
-
-## 📈 What I'm Currently Working On
-
-- ⚡ Solving **advanced DSA problems daily**
-- 🤖 Building ML models from scratch
-- 🌐 Developing REST APIs & backend systems
-- ☁️ Learning deployment, cloud & DevOps basics
+🎯 Aspiring to become a security-minded software engineer with strong data-driven problem-solving skills.
 
 ---
-
+ 
 ## 🧪 Tools & Libraries
 
 <p align="center">
@@ -142,13 +134,6 @@
   <img src="https://streak-stats.demolab.com?user=leoxmarcos&theme=dark&hide_border=true&background=101418&stroke=047857&ring=34D399&fire=34D399&currStreakLabel=34D399&sideNums=ECFDF5&currStreakNum=34D399&dates=9CA3AF&sideLabels=ECFDF5" height="180" alt="GitHub Streak" />
 </p>
 
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxmarcos&bg_color=101418&color=ECFDF5&line=34D399&point=FFFFFF&area=true&area_color=047857&hide_border=true" width="95%" alt="Contribution Graph" />
-</p>
 
 ---
 
